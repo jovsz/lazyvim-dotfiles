@@ -18,9 +18,5 @@ Once installed, you can start Neovim and enjoy the enhanced features provided by
 
 Feel free to fork this repository and make your own customizations. Contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License.
-
 A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
 Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
